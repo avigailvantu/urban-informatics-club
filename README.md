@@ -12,3 +12,5 @@ content posted here for the the urban informatics club
 ### future of transportation, city lab http://cdn.theatlantic.com/assets/media/files/FOT_ebook.pdf
 
 ### Michael Batty, Frectal Cities http://www.fractalcities.org/ 
+####        chapter 1: http://www.fractalcities.org/book/Fractal%20Cities%20Chapter%201.pdf 
+####        chapter 2: http://www.fractalcities.org/book/Fractal%20Cities%20Chapter%202.pdf
