@@ -16,3 +16,6 @@ content posted here for the the urban informatics club
 ####        chapter 2: http://www.fractalcities.org/book/Fractal%20Cities%20Chapter%202.pdf
 
 ### Marron Institute THE QUALITY OF URBAN LAYOUTS,http://marroninstitute.nyu.edu/uploads/content/Measuring_the_Quality_of_Urban_Layouts_December_1_2016_Reduced.pdf
+
+### resources: 
+#### https://www.databasic.io/en/
