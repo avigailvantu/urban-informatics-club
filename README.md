@@ -8,3 +8,5 @@ content posted here for the the urban informatics club
 ### freakonomics  http://freakonomics.com/podcast/uber-economists-dream/
 
 ### Data & Society: ethics network https://vimeo.com/151672242
+
+### future of transportation, city lab http://cdn.theatlantic.com/assets/media/files/FOT_ebook.pdf
