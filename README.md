@@ -1,4 +1,4 @@
-# urban-informatics-club materials 
+# Urban Informatics Club
 content posted here for the the urban informatics club 
 ### furtue of the office work: http://citylab.aud.ucla.edu/files/publications/Future_of_Work_How_We_Got_Here.pdf
 
@@ -14,3 +14,5 @@ content posted here for the the urban informatics club
 ### Michael Batty, Frectal Cities http://www.fractalcities.org/ 
 ####        chapter 1: http://www.fractalcities.org/book/Fractal%20Cities%20Chapter%201.pdf 
 ####        chapter 2: http://www.fractalcities.org/book/Fractal%20Cities%20Chapter%202.pdf
+
+### Marron Institute THE QUALITY OF URBAN LAYOUTS,http://marroninstitute.nyu.edu/uploads/content/Measuring_the_Quality_of_Urban_Layouts_December_1_2016_Reduced.pdf
