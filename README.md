@@ -6,3 +6,5 @@ content posted here for the the urban informatics club
 
 ### Five Thirthy Eight, Dear Data http://fivethirtyeight.com/features/dear-data-and-fivethirtyeight-want-you-to-visualize-your-podcast-habits/
 ### freakonomics  http://freakonomics.com/podcast/uber-economists-dream/
+
+### Data & Society: ethics network https://vimeo.com/151672242
