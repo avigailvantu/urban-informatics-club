@@ -10,3 +10,5 @@ content posted here for the the urban informatics club
 ### Data & Society: ethics network https://vimeo.com/151672242
 
 ### future of transportation, city lab http://cdn.theatlantic.com/assets/media/files/FOT_ebook.pdf
+
+### Michael Batty, Frectal Cities http://www.fractalcities.org/ 
