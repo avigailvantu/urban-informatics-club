@@ -16,7 +16,7 @@
 ###### + [chapter 1] (http://www.fractalcities.org/book/Fractal%20Cities%20Chapter%201.pdf)
 ###### + [chapter 2] (http://www.fractalcities.org/book/Fractal%20Cities%20Chapter%202.pdf)
 
-### [Marron Institute The Quality of Urban] (LAYOUTS,http://marroninstitute.nyu.edu/uploads/content/Measuring_the_Quality_of_Urban_Layouts_December_1_2016_Reduced.pdf)
+###### [Marron Institute The Quality of Urban Layouts (http://marroninstitute.nyu.edu/uploads/content/Measuring_the_Quality_of_Urban_Layouts_December_1_2016_Reduced.pdf)
 
 ### resources: 
 ###### https://www.databasic.io/en/
