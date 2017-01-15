@@ -1,6 +1,12 @@
 # Data Camp 
 ###### Thursday, Jan 26th, 2017, 8:00pm 
 ###### [Freakonomics: Why Uber Is an Economist’s Dream]  (http://freakonomics.com/podcast/uber-economists-dream/)
+
+
+
+###### Future Content
+
+
 ###### [furtue of the office work] (http://citylab.aud.ucla.edu/files/publications/Future_of_Work_How_We_Got_Here.pdf)
 ###### [99% visible]  (http://99percentinvisible.org/about/the-show/)
 ###### [Five Thirthy Eight, Dear Data] (http://fivethirtyeight.com/features/dear-data-and-fivethirtyeight-want-you-to-visualize-your-podcast-habits/)
