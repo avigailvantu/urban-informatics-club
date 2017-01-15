@@ -7,7 +7,7 @@
 ###### *Future Content*
 
 
-###### [furtue of the office work] (http://citylab.aud.ucla.edu/files/publications/Future_of_Work_How_We_Got_Here.pdf)
+###### [Furtue of the Office Work, CityLab] (http://citylab.aud.ucla.edu/files/publications/Future_of_Work_How_We_Got_Here.pdf)
 ###### [99% visible]  (http://99percentinvisible.org/about/the-show/)
 ###### [Five Thirthy Eight, Dear Data] (http://fivethirtyeight.com/features/dear-data-and-fivethirtyeight-want-you-to-visualize-your-podcast-habits/)
 ###### [Data & Society: ethics network] (https://vimeo.com/151672242)
