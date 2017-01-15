@@ -1,6 +1,6 @@
 # *Data Camp* 
-###### 1st meeting: Thursday, Jan 26th, 2017, 8:00pm 
-###### [Freakonomics: Why Uber Is an Economist’s Dream]  (http://freakonomics.com/podcast/uber-economists-dream/)
+###### 1. 1st meeting: Thursday, Jan 26th, 2017, 8:00pm 
+######                 [Freakonomics: Why Uber Is an Economist’s Dream]  (http://freakonomics.com/podcast/uber-economists-dream/)
 
 
 
