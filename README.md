@@ -5,8 +5,7 @@
 
 
 ###### *Future Content*
-
-
+######[Big Data and Advertising, Claudia Perlich, MIT Media Lab] (http://www.stitcher.com/podcast/nyc-media-lab-podcast/e/claudia-perlich-on-advertising-in-the-age-of-big-data-40920622)
 ###### [Furtue of the Office Work, CityLab] (http://citylab.aud.ucla.edu/files/publications/Future_of_Work_How_We_Got_Here.pdf)
 ###### [99% visible]  (http://99percentinvisible.org/about/the-show/)
 ###### [Five Thirthy Eight, Dear Data] (http://fivethirtyeight.com/features/dear-data-and-fivethirtyeight-want-you-to-visualize-your-podcast-habits/)
