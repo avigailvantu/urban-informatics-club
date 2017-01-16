@@ -1,6 +1,7 @@
 # * ***** Club* 
 ###### 1. Thursday, Jan 26th, 2017, 8:00pm 
-######                 [Freakonomics: Why Uber Is an Economist’s Dream]  (http://freakonomics.com/podcast/uber-economists-dream/)
+###### [Economics of Philanthropy, Cathy O'Neil, Slate] (http://www.slate.com/articles/podcasts/slate_money/2016/11/slate_money_talks_criminal_justice_data_and_the_role_of_philanthropy_post.html)
+######  [Freakonomics: Why Uber Is an Economist’s Dream]  (http://freakonomics.com/podcast/uber-economists-dream/)
 
 
 
