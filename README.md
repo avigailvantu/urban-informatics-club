@@ -1,11 +1,12 @@
 # * ***** Club* 
 ###### 1. Thursday, Jan 26th, 2017, 8:00pm 
 ###### [Economics of Philanthropy, Cathy O'Neil, Slate] (http://www.slate.com/articles/podcasts/slate_money/2016/11/slate_money_talks_criminal_justice_data_and_the_role_of_philanthropy_post.html)
-######  [Freakonomics: Why Uber Is an Economist’s Dream]  (http://freakonomics.com/podcast/uber-economists-dream/)
+
 
 
 
 ###### *Future Content*
+######  [Freakonomics: Why Uber Is an Economist’s Dream]  (http://freakonomics.com/podcast/uber-economists-dream/)
 ######[Big Data and Advertising, Claudia Perlich, MIT Media Lab] (http://www.stitcher.com/podcast/nyc-media-lab-podcast/e/claudia-perlich-on-advertising-in-the-age-of-big-data-40920622)
 ###### [Furtue of the Office Work, CityLab] (http://citylab.aud.ucla.edu/files/publications/Future_of_Work_How_We_Got_Here.pdf)
 ###### [99% visible]  (http://99percentinvisible.org/about/the-show/)
