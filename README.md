@@ -1,6 +1,6 @@
 # * ***** Club*
-###### 1. Thursday, Jan 26th, 2017, 8:00pm
-###### [Economics of Philanthropy, Cathy O'Neil, Slate] (http://www.slate.com/articles/podcasts/slate_money/2016/11/slate_money_talks_criminal_justice_data_and_the_role_of_philanthropy_post.html)
+###### 1. Thursday, Jan 26th, 2017, 7:30pm
+###### You don't need to prepare for anything for this wee's meeting. Wer'e gonna watch parts of "In Jackson Heights", by Frederick Wiseman 
 
 
 ###### *Future Content*
