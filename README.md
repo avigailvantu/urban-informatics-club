@@ -1,7 +1,7 @@
 # * ***** Club*
 ##### Next meeeting: 
 ##### Thursday, Feb 23rd, 2017, 7:30pm
-##### Before the meeting: listen to "Plat of Zion", by [99% Invisibl] (http://99percentinvisible.org/episode/plat-of-zion/)
+##### Before the meeting: listen to "Plat of Zion", by [99% Invisible] (http://99percentinvisible.org/episode/plat-of-zion/)
 ##### We are going to watch "The Human Scale", by Andreas Dalsgaard
 
 Previous meetings: 
